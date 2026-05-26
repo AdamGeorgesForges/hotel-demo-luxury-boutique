@@ -89,3 +89,6 @@ https://github.com/AdamGeorgesForges/hotel-demo-luxury-boutique
 
 ✅ Build complete
 🔄 Cloudflare Pages deployment in progress
+
+<!-- Build trigger: Tue May 26 06:57:20 PM UTC 2026 -->
+
